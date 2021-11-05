@@ -40,7 +40,7 @@
 
 ## InterView Admob
 
-![Picture 3](/Images/9_InterviewAdMob_Panel.png)
+![Picture 3](/Images/9_interviewAdMob_Panel.png)
 
 ## Game Over Menu
 
