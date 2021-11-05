@@ -10,7 +10,7 @@
 
 ![Picture 2](/Images/1_Home_Menu.png)
 
-## Nenu System
+## Menu System
 
 ![Picture 2](/Images/2_Menu_System.png)
 
